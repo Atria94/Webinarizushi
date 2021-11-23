@@ -60,4 +60,4 @@ class Ladra{
 
 
 [perrochiquito]:perrochiquito.jpeg
-[banner]:banner
+[banner]:banner.svg
