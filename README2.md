@@ -24,9 +24,6 @@ Nuestra página *web* muestra información sobre los tipos de **razas de perros*
 
 ![alt][perrochiquito]
 
-
-[perrochiquito]:perrochiquito.jpeg
-
 ## Tabla de peso en función de la edad y tipo de raza
 
 |edad |pequeño |mediano |grande |
@@ -35,3 +32,26 @@ Nuestra página *web* muestra información sobre los tipos de **razas de perros*
 | 10  | 56     |   60   |   66  |
 | 15  | 76     |   86   |   93  |
 
+## Calendario de vacunación de tu perro
+
+- [x] de 6 a 8 semanas
+- [ ] de 8 a 10 semanas
+- [ ] de 12 a 14 semanas
+- [ ] de 14 a 16 semanas
+- [x] de 14 a 18 semanas
+
+## Progama que ladra
+
+```java
+class Ladra{
+  public static void main(String[] arg){
+    System.out.println("guau")
+    }
+ }
+```
+
+---
+
+<img width="50" scr="https://www.zooplus.es/magazine/wp-content/uploads/2017/10/Mi-perro-ladra-mucho.jpg"/>
+
+[perrochiquito]:perrochiquito.jpeg
