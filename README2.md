@@ -52,6 +52,6 @@ class Ladra{
 
 ---
 
-<img width="50" scr="https://www.zooplus.es/magazine/wp-content/uploads/2017/10/Mi-perro-ladra-mucho.jpg"/>
+<img width="50" src="https://www.zooplus.es/magazine/wp-content/uploads/2017/10/Mi-perro-ladra-mucho.jpg"/>
 
 [perrochiquito]:perrochiquito.jpeg
